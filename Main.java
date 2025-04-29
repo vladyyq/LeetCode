@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello World!");
 
         System.out.println("Hello World! 1111");
+        System.out.print("Hello World! 3333");
     }
 }
